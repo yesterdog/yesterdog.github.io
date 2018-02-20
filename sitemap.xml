@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.org/categories/</loc>
+    <loc>https://yesterdog.github.io/post/hello/</loc>
+    <lastmod>2018-02-20T13:37:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yesterdog.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/</loc>
+    <loc>https://yesterdog.github.io/post/</loc>
+    <lastmod>2018-02-20T13:37:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/</loc>
+    <loc>https://yesterdog.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yesterdog.github.io/</loc>
+    <lastmod>2018-02-20T13:37:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
